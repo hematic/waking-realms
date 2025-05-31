@@ -1,0 +1,153 @@
+{
+  "id": "waking-realms",
+  "title": "Waking Realms",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>Full Content module that covers the waking realms.</p>",
+  "authors": [
+    {
+      "name": "Phillip Marshall",
+      "url": "https://github.com/hematic",
+      "discord": "hematic",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/hematic/waking-realms",
+  "packs": [
+    {
+      "name": "waking-realms-world-maps",
+      "label": "Waking Realms World Maps",
+      "path": "packs/waking-realms-world-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-nation-maps",
+      "label": "Waking Realms Nation Maps",
+      "path": "packs/waking-realms-nation-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-city-maps",
+      "label": "Waking Realms City Maps",
+      "path": "packs/waking-realms-city-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-location-maps",
+      "label": "Waking Realms Location Maps",
+      "path": "packs/waking-realms-location-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-encounter-maps",
+      "label": "Waking Realms Encounter Maps",
+      "path": "packs/waking-realms-encounter-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-npcs",
+      "label": "Waking Realms NPCS",
+      "path": "packs/waking-realms-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-monsters",
+      "label": "Waking Realms Monsters",
+      "path": "packs/waking-realms-monsters",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-items",
+      "label": "Waking Realms Items",
+      "path": "packs/waking-realms-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-journals",
+      "label": "Waking Realms Journals",
+      "path": "packs/waking-realms-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-rollable-tables",
+      "label": "Waking Realms Rollable Tables",
+      "path": "packs/waking-realms-rollable-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "waking-realms-adventure",
+      "label": "Waking Realms Adventure",
+      "path": "packs/waking-realms-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
