@@ -8,6 +8,7 @@
   },
   "description": "<p>Full Content module that covers the waking realms.</p>",
   "manifest": "https://raw.githubusercontent.com/hematic/waking-realms/refs/heads/main/module.json",
+  "download": "https://github.com/hematic/waking-realms/releases/download/untagged-a609ee7666f5e4a7bebc/waking-realms.zip",
   "authors": [
     {
       "name": "Phillip Marshall",
